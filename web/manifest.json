@@ -1,0 +1,35 @@
+{
+    "name": "Forme Shopping Demo",
+    "short_name": "Forme",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#203C35",
+    "theme_color": "#203C35",
+    "description": "A Flutter shopping catalog demo with search, favorites, product details, and a cart.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
